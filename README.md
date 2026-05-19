@@ -589,13 +589,7 @@ Add:
 
 ```bash
 git clone https://github.com/Jayavardhani05/Bank-Management-Application.git
-```
 
-### Example
-
-```bash
-git clone https://github.com/Jayavardhani05/Bank-Management-Application.git
-```
 
 ---
 
@@ -684,10 +678,9 @@ git push -u origin main
 ```text
 Bank-Management-System/
 │
-├── main.cpp
-├── bank_database.dat
+├── Bank Management Application.cpp
 ├── README.md
-└── .gitignore
+
 ```
 
 ---
