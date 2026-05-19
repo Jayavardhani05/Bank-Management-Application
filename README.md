@@ -588,13 +588,13 @@ Add:
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Jayavardhani05/Bank-Management-Application.git
 ```
 
 ### Example
 
 ```bash
-git clone https://github.com/username/bank-management-system.git
+git clone https://github.com/Jayavardhani05/Bank-Management-Application.git
 ```
 
 ---
@@ -665,7 +665,7 @@ git commit -m "Initial commit"
 ## Connect GitHub Repository
 
 ```bash
-git remote add origin https://github.com/username/bank-management-system.git
+git remote add origin https://github.com/Jayavardhani05/Bank-Management-Application.git
 ```
 
 ---
