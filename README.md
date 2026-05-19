@@ -585,10 +585,11 @@ Add:
 
 ---
 
-## Clone Repository
+## Connect Remote Repository
 
-git clone https://github.com/Jayavardhani05/Bank-Management-Application.git 
----
+```bash
+git remote add origin https://github.com/Jayavardhani05/Bank-Management-Application.git
+```
 
 ## Navigate into Project Folder
 
