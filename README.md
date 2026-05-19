@@ -587,15 +587,11 @@ Add:
 
 ## Clone Repository
 
-```bash
-git clone https://github.com/Jayavardhani05/Bank-Management-Application.git
-
-
+git clone https://github.com/Jayavardhani05/Bank-Management-Application.git 
 ---
 
 ## Navigate into Project Folder
 
-```bash
 cd Bank-Management-Application
 
 ```
